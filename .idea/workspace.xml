@@ -4,19 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d5d6210-591c-4d0e-8ad4-2d3b6a1be163" name="Changes" comment="module 2">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatapp-with-voice-and-openai/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatapp-with-voice-and-openai/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chatapp-with-voice-and-openai/worker.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatapp-with-voice-and-openai/worker.py" afterDir="false" />
-    </list>
+    <list default="true" id="8d5d6210-591c-4d0e-8ad4-2d3b6a1be163" name="Changes" comment="module 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/chatapp-with-voice-and-openai" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chatapp-with-voice-and-openai" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -45,7 +46,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "module-3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,7 +73,7 @@
       <updated>1740315828858</updated>
       <workItem from="1740315829845" duration="653000" />
       <workItem from="1740316857009" duration="3102000" />
-      <workItem from="1740566057147" duration="4797000" />
+      <workItem from="1740566057147" duration="5127000" />
     </task>
     <task id="LOCAL-00001" summary="module 2">
       <option name="closed" value="true" />
@@ -90,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740318892246</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="module 2">
+      <option name="closed" value="true" />
+      <created>1740571274736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740571274737</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
