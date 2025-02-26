@@ -29,6 +29,7 @@ def speech_to_text(audio_binary):
         print('recognised text: ', text)
         return text
 
+
 def text_to_speech(text, voice=""):
     # Set up Watson Text-to-Speech HTTP Api url
     base_url = '...'
