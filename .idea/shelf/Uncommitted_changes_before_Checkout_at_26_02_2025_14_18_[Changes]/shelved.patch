@@ -1,0 +1,461 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8d5d6210-591c-4d0e-8ad4-2d3b6a1be163\" name=\"Changes\" comment=\"module 3 done\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FlaskConsoleOptions\" custom-start-script=\"import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass\">\r\n    <envs>\r\n      <env key=\"FLASK_APP\" value=\"app\" />\r\n    </envs>\r\n    <option name=\"myCustomStartScript\" value=\"import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass\" />\r\n    <option name=\"myEnvs\">\r\n      <map>\r\n        <entry key=\"FLASK_APP\" value=\"app\" />\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$/chatapp-with-voice-and-openai\" value=\"module-3\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"ROOT_SYNC\" value=\"DONT_SYNC\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;RomanStroziuk&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/RomanStroziuk/PythonModules&quot;,\r\n    &quot;accountId&quot;: &quot;3ce27116-2f8a-4472-8ea7-d19dce256020&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2tRXOPjl9XfPd3gnPSygrqFyGuc\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.chatbot.executor\": \"Run\",\r\n    \"Python.main.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"module-3.2\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"project.propVCSSupport.DirectoryMappings\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54\" />\r\n        <option value=\"bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8d5d6210-591c-4d0e-8ad4-2d3b6a1be163\" name=\"Changes\" comment=\"\" />\r\n      <created>1740315828858</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1740315828858</updated>\r\n      <workItem from=\"1740315829845\" duration=\"653000\" />\r\n      <workItem from=\"1740316857009\" duration=\"3102000\" />\r\n      <workItem from=\"1740566057147\" duration=\"5680000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"module 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740318892246</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740318892246</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"module 2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571274736</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571274737</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"module 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571478412</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571478413</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"module 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571593829</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571593829</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"module 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571610537</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571610537</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"module 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571615059</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571615059</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"module 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571616423</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571616423</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"module 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571626431</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571626431</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"module 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571627901</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571627901</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"module 3\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571628755</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571628755</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571692536</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571692536</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571693754</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571693754</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571694351</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571694351</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571694905</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571694905</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571698139</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571698139</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571698987</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571698987</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571701810</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571701810</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571702274</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571702274</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571702679</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571702679</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571703090</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571703090</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571703676</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571703676</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571707634</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571707634</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571708253</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571708253</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00025\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571708748</created>\r\n      <option name=\"number\" value=\"00025\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00025\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571708748</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00026\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571709253</created>\r\n      <option name=\"number\" value=\"00026\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00026\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571709253</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00027\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571709741</created>\r\n      <option name=\"number\" value=\"00027\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00027\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571709741</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00028\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571710243</created>\r\n      <option name=\"number\" value=\"00028\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00028\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571710243</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00029\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571710729</created>\r\n      <option name=\"number\" value=\"00029\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00029\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571710729</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00030\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571711201</created>\r\n      <option name=\"number\" value=\"00030\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00030\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571711201</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00031\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571711661</created>\r\n      <option name=\"number\" value=\"00031\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00031\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571711661</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00032\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571790732</created>\r\n      <option name=\"number\" value=\"00032\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00032\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571790732</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00033\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571791740</created>\r\n      <option name=\"number\" value=\"00033\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00033\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571791740</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00034\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571792409</created>\r\n      <option name=\"number\" value=\"00034\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00034\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571792409</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00035\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571793010</created>\r\n      <option name=\"number\" value=\"00035\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00035\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571793010</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00036\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571907825</created>\r\n      <option name=\"number\" value=\"00036\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00036\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571907825</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00037\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571908619</created>\r\n      <option name=\"number\" value=\"00037\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00037\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571908619</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00038\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571908809</created>\r\n      <option name=\"number\" value=\"00038\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00038\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571908809</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00039\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571960502</created>\r\n      <option name=\"number\" value=\"00039\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00039\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571960502</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00040\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571961149</created>\r\n      <option name=\"number\" value=\"00040\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00040\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571961149</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00041\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571961685</created>\r\n      <option name=\"number\" value=\"00041\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00041\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571961685</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00042\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571962172</created>\r\n      <option name=\"number\" value=\"00042\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00042\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571962172</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00043\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571962359</created>\r\n      <option name=\"number\" value=\"00043\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00043\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571962359</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00044\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571962521</created>\r\n      <option name=\"number\" value=\"00044\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00044\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571962521</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00045\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571967090</created>\r\n      <option name=\"number\" value=\"00045\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00045\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571967090</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00046\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571967359</created>\r\n      <option name=\"number\" value=\"00046\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00046\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571967359</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00047\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571967547</created>\r\n      <option name=\"number\" value=\"00047\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00047\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571967547</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00048\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571967719</created>\r\n      <option name=\"number\" value=\"00048\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00048\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571967719</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00049\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571967872</created>\r\n      <option name=\"number\" value=\"00049\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00049\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571967872</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00050\" summary=\"module 3 done\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1740571968042</created>\r\n      <option name=\"number\" value=\"00050\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00050\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1740571968044</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"51\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"module 2\" />\r\n    <MESSAGE value=\"module 3\" />\r\n    <MESSAGE value=\"module 3 done\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"module 3 done\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/PythonProject$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1740315958564\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/PythonProject$chatbot.coverage\" NAME=\"chatbot Coverage Results\" MODIFIED=\"1740318537277\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 18530e21fec0792f7f1ba9e8f8597ce7bd6eac0b)
++++ b/.idea/workspace.xml	(date 1740572238801)
+@@ -24,6 +24,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
++        <entry key="$PROJECT_DIR$" value="module-3.2" />
+         <entry key="$PROJECT_DIR$/chatapp-with-voice-and-openai" value="module-3" />
+       </map>
+     </option>
+@@ -57,7 +58,7 @@
+     "Python.main.executor": "Run",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.git.unshallow": "true",
+-    "git-widget-placeholder": "module-3.2",
++    "git-widget-placeholder": "module-3",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+@@ -85,215 +86,7 @@
+       <updated>1740315828858</updated>
+       <workItem from="1740315829845" duration="653000" />
+       <workItem from="1740316857009" duration="3102000" />
+-      <workItem from="1740566057147" duration="5680000" />
+-    </task>
+-    <task id="LOCAL-00002" summary="module 2">
+-      <option name="closed" value="true" />
+-      <created>1740318892246</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740318892246</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="module 2">
+-      <option name="closed" value="true" />
+-      <created>1740571274736</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571274737</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="module 3">
+-      <option name="closed" value="true" />
+-      <created>1740571478412</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571478413</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="module 3">
+-      <option name="closed" value="true" />
+-      <created>1740571593829</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571593829</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="module 3">
+-      <option name="closed" value="true" />
+-      <created>1740571610537</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571610537</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="module 3">
+-      <option name="closed" value="true" />
+-      <created>1740571615059</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571615059</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="module 3">
+-      <option name="closed" value="true" />
+-      <created>1740571616423</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571616423</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="module 3">
+-      <option name="closed" value="true" />
+-      <created>1740571626431</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571626431</updated>
+-    </task>
+-    <task id="LOCAL-00010" summary="module 3">
+-      <option name="closed" value="true" />
+-      <created>1740571627901</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571627901</updated>
+-    </task>
+-    <task id="LOCAL-00011" summary="module 3">
+-      <option name="closed" value="true" />
+-      <created>1740571628755</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571628755</updated>
+-    </task>
+-    <task id="LOCAL-00012" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571692536</created>
+-      <option name="number" value="00012" />
+-      <option name="presentableId" value="LOCAL-00012" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571692536</updated>
+-    </task>
+-    <task id="LOCAL-00013" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571693754</created>
+-      <option name="number" value="00013" />
+-      <option name="presentableId" value="LOCAL-00013" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571693754</updated>
+-    </task>
+-    <task id="LOCAL-00014" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571694351</created>
+-      <option name="number" value="00014" />
+-      <option name="presentableId" value="LOCAL-00014" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571694351</updated>
+-    </task>
+-    <task id="LOCAL-00015" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571694905</created>
+-      <option name="number" value="00015" />
+-      <option name="presentableId" value="LOCAL-00015" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571694905</updated>
+-    </task>
+-    <task id="LOCAL-00016" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571698139</created>
+-      <option name="number" value="00016" />
+-      <option name="presentableId" value="LOCAL-00016" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571698139</updated>
+-    </task>
+-    <task id="LOCAL-00017" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571698987</created>
+-      <option name="number" value="00017" />
+-      <option name="presentableId" value="LOCAL-00017" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571698987</updated>
+-    </task>
+-    <task id="LOCAL-00018" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571701810</created>
+-      <option name="number" value="00018" />
+-      <option name="presentableId" value="LOCAL-00018" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571701810</updated>
+-    </task>
+-    <task id="LOCAL-00019" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571702274</created>
+-      <option name="number" value="00019" />
+-      <option name="presentableId" value="LOCAL-00019" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571702274</updated>
+-    </task>
+-    <task id="LOCAL-00020" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571702679</created>
+-      <option name="number" value="00020" />
+-      <option name="presentableId" value="LOCAL-00020" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571702679</updated>
+-    </task>
+-    <task id="LOCAL-00021" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571703090</created>
+-      <option name="number" value="00021" />
+-      <option name="presentableId" value="LOCAL-00021" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571703090</updated>
+-    </task>
+-    <task id="LOCAL-00022" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571703676</created>
+-      <option name="number" value="00022" />
+-      <option name="presentableId" value="LOCAL-00022" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571703676</updated>
+-    </task>
+-    <task id="LOCAL-00023" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571707634</created>
+-      <option name="number" value="00023" />
+-      <option name="presentableId" value="LOCAL-00023" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571707634</updated>
+-    </task>
+-    <task id="LOCAL-00024" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571708253</created>
+-      <option name="number" value="00024" />
+-      <option name="presentableId" value="LOCAL-00024" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571708253</updated>
+-    </task>
+-    <task id="LOCAL-00025" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571708748</created>
+-      <option name="number" value="00025" />
+-      <option name="presentableId" value="LOCAL-00025" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571708748</updated>
+-    </task>
+-    <task id="LOCAL-00026" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571709253</created>
+-      <option name="number" value="00026" />
+-      <option name="presentableId" value="LOCAL-00026" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571709253</updated>
+-    </task>
+-    <task id="LOCAL-00027" summary="module 3 done">
+-      <option name="closed" value="true" />
+-      <created>1740571709741</created>
+-      <option name="number" value="00027" />
+-      <option name="presentableId" value="LOCAL-00027" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1740571709741</updated>
++      <workItem from="1740566057147" duration="5937000" />
+     </task>
+     <task id="LOCAL-00028" summary="module 3 done">
+       <option name="closed" value="true" />
+@@ -479,7 +272,215 @@
+       <option name="project" value="LOCAL" />
+       <updated>1740571968044</updated>
+     </task>
+-    <option name="localTasksCounter" value="51" />
++    <task id="LOCAL-00051" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572028810</created>
++      <option name="number" value="00051" />
++      <option name="presentableId" value="LOCAL-00051" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572028810</updated>
++    </task>
++    <task id="LOCAL-00052" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572029545</created>
++      <option name="number" value="00052" />
++      <option name="presentableId" value="LOCAL-00052" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572029545</updated>
++    </task>
++    <task id="LOCAL-00053" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572030088</created>
++      <option name="number" value="00053" />
++      <option name="presentableId" value="LOCAL-00053" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572030088</updated>
++    </task>
++    <task id="LOCAL-00054" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572032274</created>
++      <option name="number" value="00054" />
++      <option name="presentableId" value="LOCAL-00054" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572032275</updated>
++    </task>
++    <task id="LOCAL-00055" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572035449</created>
++      <option name="number" value="00055" />
++      <option name="presentableId" value="LOCAL-00055" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572035449</updated>
++    </task>
++    <task id="LOCAL-00056" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572036253</created>
++      <option name="number" value="00056" />
++      <option name="presentableId" value="LOCAL-00056" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572036253</updated>
++    </task>
++    <task id="LOCAL-00057" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572036876</created>
++      <option name="number" value="00057" />
++      <option name="presentableId" value="LOCAL-00057" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572036876</updated>
++    </task>
++    <task id="LOCAL-00058" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572047440</created>
++      <option name="number" value="00058" />
++      <option name="presentableId" value="LOCAL-00058" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572047440</updated>
++    </task>
++    <task id="LOCAL-00059" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572123261</created>
++      <option name="number" value="00059" />
++      <option name="presentableId" value="LOCAL-00059" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572123261</updated>
++    </task>
++    <task id="LOCAL-00060" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572124395</created>
++      <option name="number" value="00060" />
++      <option name="presentableId" value="LOCAL-00060" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572124395</updated>
++    </task>
++    <task id="LOCAL-00061" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572125043</created>
++      <option name="number" value="00061" />
++      <option name="presentableId" value="LOCAL-00061" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572125043</updated>
++    </task>
++    <task id="LOCAL-00062" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572125755</created>
++      <option name="number" value="00062" />
++      <option name="presentableId" value="LOCAL-00062" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572125755</updated>
++    </task>
++    <task id="LOCAL-00063" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572145046</created>
++      <option name="number" value="00063" />
++      <option name="presentableId" value="LOCAL-00063" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572145046</updated>
++    </task>
++    <task id="LOCAL-00064" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572145853</created>
++      <option name="number" value="00064" />
++      <option name="presentableId" value="LOCAL-00064" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572145853</updated>
++    </task>
++    <task id="LOCAL-00065" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572146793</created>
++      <option name="number" value="00065" />
++      <option name="presentableId" value="LOCAL-00065" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572146793</updated>
++    </task>
++    <task id="LOCAL-00066" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572147666</created>
++      <option name="number" value="00066" />
++      <option name="presentableId" value="LOCAL-00066" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572147667</updated>
++    </task>
++    <task id="LOCAL-00067" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572181368</created>
++      <option name="number" value="00067" />
++      <option name="presentableId" value="LOCAL-00067" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572181368</updated>
++    </task>
++    <task id="LOCAL-00068" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572181925</created>
++      <option name="number" value="00068" />
++      <option name="presentableId" value="LOCAL-00068" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572181925</updated>
++    </task>
++    <task id="LOCAL-00069" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572182156</created>
++      <option name="number" value="00069" />
++      <option name="presentableId" value="LOCAL-00069" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572182156</updated>
++    </task>
++    <task id="LOCAL-00070" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572182336</created>
++      <option name="number" value="00070" />
++      <option name="presentableId" value="LOCAL-00070" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572182336</updated>
++    </task>
++    <task id="LOCAL-00071" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572196315</created>
++      <option name="number" value="00071" />
++      <option name="presentableId" value="LOCAL-00071" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572196315</updated>
++    </task>
++    <task id="LOCAL-00072" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572197006</created>
++      <option name="number" value="00072" />
++      <option name="presentableId" value="LOCAL-00072" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572197006</updated>
++    </task>
++    <task id="LOCAL-00073" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572200086</created>
++      <option name="number" value="00073" />
++      <option name="presentableId" value="LOCAL-00073" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572200086</updated>
++    </task>
++    <task id="LOCAL-00074" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572200835</created>
++      <option name="number" value="00074" />
++      <option name="presentableId" value="LOCAL-00074" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572200835</updated>
++    </task>
++    <task id="LOCAL-00075" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572201428</created>
++      <option name="number" value="00075" />
++      <option name="presentableId" value="LOCAL-00075" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572201428</updated>
++    </task>
++    <task id="LOCAL-00076" summary="module 3 done">
++      <option name="closed" value="true" />
++      <created>1740572201924</created>
++      <option name="number" value="00076" />
++      <option name="presentableId" value="LOCAL-00076" />
++      <option name="project" value="LOCAL" />
++      <updated>1740572201924</updated>
++    </task>
++    <option name="localTasksCounter" value="77" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
